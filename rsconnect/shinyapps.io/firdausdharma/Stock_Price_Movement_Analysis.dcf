@@ -1,0 +1,14 @@
+name: Stock_Price_Movement_Analysis
+title:
+username:
+account: firdausdharma
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8086277
+bundleId: 6755918
+url: https://firdausdharma.shinyapps.io/Stock_Price_Movement_Analysis/
+when: 1674232530.9929
+lastSyncTime: 1674232530.99291
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|raw.R|stock_data.csv
