@@ -1,1 +1,3 @@
 # Stock-Movement-Analysis-Technical-Indicator-Historical-Data_RShiny
+
+Create an interactive web application for analyzing and visualizing stock movements. This application is built using the R programming language and the RShiny framework. Besides that, this data analysis utilizes techniques such as Linear Regression, Random Forest Classification, and Facebook Prophet to analyze the data. There are two main components of stock movement analysis: technical indicators and historical data. By combining technical indicators and historical data, traders and investors can develop a better understanding of the movements of a particular stock or market.
